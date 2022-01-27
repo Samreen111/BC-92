@@ -1,0 +1,10 @@
+PNR :MB_20220125_100
+Train No: 1004
+Train Name: Udyan Express
+From: Mumbai
+To: Bangalore
+Travel Date: 20220125
+Passengers:
+Name		Age		Gender		Fare
+fathima		22		F		1125.0		
+Total Price: 1125.0
